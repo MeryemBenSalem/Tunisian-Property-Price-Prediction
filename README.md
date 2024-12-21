@@ -1,10 +1,7 @@
 
 ### Scraping Tayara.tn 
-1/ Install these libraries
+1/ Install Selenium
 ```
-$ pip install pandas
-$ pip install bs4
-$ pip install requests
 $ pip install selenium
 ```
 2/ Download ChromeDriver from https://chromedriver.chromium.org/downloads
